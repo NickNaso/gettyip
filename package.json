@@ -1,0 +1,28 @@
+{
+  "name": "gettyip",
+  "version": "0.0.1",
+  "description": "get and stay notified about your publi IP",
+  "private": true,
+  "homepage": "https://github.com/NickNaso",
+  "author": {
+    "name": "NickNaso",
+    "email": "nicoladelgobbo@gmail.com",
+    "url": "https://github.com/NickNaso"
+  },
+  "contributors": [
+    {
+      "name": "Nicola Del Gobbo",
+      "email": "nicoladelgobbo@gmail.com",
+      "url": "https://github.com/NickNaso"
+    }
+  ],
+  "bin": {
+    "start": "./index.js"
+  },
+  "scripts": {
+    "start": "./index.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
